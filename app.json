@@ -1,14 +1,14 @@
 {
-  "name": "DaisyX",
+  "name": "ANTOX",
   "description": "?",
   "keywords": [
     "telegram",
-    "Daisy",
+    "Antok",
     "plugin",
-    "telegram-DaisyX",
+    "telegram-ANTOX",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/Daisy-x",
+  "repository": "https://github.com/Anton12z/ANTOK",
   "website": "daisyproject.studio",
   "success_url": "t.me/DaisyXUpdates",
   "buildpacks": [
