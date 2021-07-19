@@ -1,2 +1,2 @@
-DAISYX: python3 -m DaisyX
-ps:scale DAISYX=1
+ANTOX: python3 -m ANTOX
+ps:scale ANTO=1
